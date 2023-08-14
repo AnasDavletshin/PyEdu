@@ -1,0 +1,5 @@
+m = int(input())
+b = int(input())
+k = int(input())
+ms = int(input())
+print(3 * (m + b + k + ms))
