@@ -1,0 +1,5 @@
+lst = input().split()
+lst.sort(key=int)
+print(*lst)
+lst.sort(key=int, reverse=True)
+print(*lst)
